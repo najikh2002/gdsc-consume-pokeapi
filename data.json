@@ -1,0 +1,37 @@
+{
+  "fakultas": "Fakultas Sains dan Teknologi",
+  "program_studi": [
+    {
+      "nama": "Informatika",
+      "deskripsi": "Program studi yang fokus pada pengembangan perangkat lunak, pemrograman, dan sistem informasi."
+    },
+    {
+      "nama": "Matematika",
+      "deskripsi": "Program studi yang mempelajari konsep matematika dan aplikasinya dalam berbagai bidang ilmu."
+    },
+    {
+      "nama": "Fisika",
+      "deskripsi": "Program studi yang mendalami prinsip-prinsip dasar fisika dan aplikasinya dalam ilmu pengetahuan lainnya."
+    },
+    {
+      "nama": "Kimia",
+      "deskripsi": "Program studi yang mempelajari sifat dan interaksi zat-zat kimia serta penerapannya dalam industri dan penelitian."
+    },
+    {
+      "nama": "Biologi",
+      "deskripsi": "Program studi yang memahami struktur, fungsi, pertumbuhan, evolusi, dan distribusi makhluk hidup."
+    },
+    {
+      "nama": "Teknik Industri",
+      "deskripsi": "Program studi yang mengintegrasikan ilmu rekayasa dan manajemen untuk meningkatkan efisiensi sistem produksi."
+    },
+    {
+      "nama": "Arsitektur",
+      "deskripsi": "Program studi yang fokus pada perancangan dan pembangunan bangunan, termasuk aspek estetika dan teknis."
+    },
+    {
+      "nama": "Kedokteran",
+      "deskripsi": "Program studi yang melatih mahasiswa untuk menjadi dokter dengan pemahaman mendalam tentang ilmu kedokteran."
+    }
+  ]
+}
