@@ -1,6 +1,6 @@
-# Aplikasi Penjelajah Pokémon
+# Pokémon Hunt
 
-Aplikasi ini memungkinkan pengguna untuk menelusuri daftar Pokémon menggunakan [PokeAPI](https://pokeapi.co/). Pengguna dapat melihat daftar Pokémon serta detail individu dari setiap Pokémon yang terdaftar.
+Website sederhana ini memungkinkan pengguna untuk menelusuri daftar Pokémon menggunakan [PokeAPI](https://pokeapi.co/). Pengguna dapat melihat daftar Pokémon serta detail individu dari setiap Pokémon yang terdaftar.
 
 ## Cara Penggunaan
 
